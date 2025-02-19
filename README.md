@@ -123,7 +123,7 @@ Want to improve this project?
 ---
 
 ## 🎯 **Author**  
-👤 **Your Name**  
+👤 **Manish Naik** 
 📩 [Manishmnaik20@gmail.com]  
 🔗 [https://github.com/manishnaik20]  
 
