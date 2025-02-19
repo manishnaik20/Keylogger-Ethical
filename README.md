@@ -125,7 +125,7 @@ Want to improve this project?
 ## 🎯 **Author**  
 👤 **Your Name**  
 📩 [Manishmnaik20@gmail.com]  
-🔗 [Your GitHub Profile]  
+🔗 [https://github.com/manishnaik20]  
 
 ---
 
